@@ -1,2 +1,2 @@
 # python-dcom-experiment
-third year dcom 
+EXTC Third year Digital Communication Experiments
